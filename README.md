@@ -4,4 +4,3 @@ So that owner can put products which are generally bought together near to each 
 
 In this we have analysed association between the various products using the grocery dataset of customers basket.
 This is used for recommendation engine on the basis of correlation.
-love you bro....
